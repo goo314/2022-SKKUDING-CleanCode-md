@@ -10,6 +10,6 @@ npm init
 npm install
 
 # typescript파일 실행
-# ts-node ch<번호>/sample.ts
-ts-node ch07/sample.ts
+# ts-node ch<번호>/main.ts
+ts-node ch07/main.ts
 ```

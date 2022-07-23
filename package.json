@@ -18,5 +18,8 @@
   "homepage": "https://github.com/goo314/2022-SKKUDING-CleanCode-md#readme",
   "dependencies": {
     "typescript": "^4.7.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.6"
   }
 }
